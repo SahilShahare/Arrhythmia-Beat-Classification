@@ -35,3 +35,5 @@ Ensure ```python >= 3.12.8``` is installed.
 conda activate <your env>
 pip install -r requirements.txt
 ```
+## 💡 Tips
+* Refer [here](https://github.com/SahilShahare/Nirvana-Setup) for Nirvana and Jupyter Notebook Setup on VS-Code.
