@@ -13,3 +13,22 @@ Replace dummy paths in `paths.json` file in the project directory with paths to 
     "mit-bih-supra-ventricular": "/absolute/path/to/svdb"
 }
 ```
+## ⚙️ Requirements & Installation
+```
+Python 3.12.8
+wfdb 4.3.0
+scipy 1.16.0
+numpy 2.2.1
+Pywavelets 1.8.0
+scikit-learn 1.7.0
+seaborn 0.13.2
+matplotlib 3.10.3
+pandas 2.3.0
+joblib 1.5.1
+```
+Ensure ```python >= 3.12.8``` is installed. 
+
+```
+conda activate <your env>
+pip install -r requirements.txt
+```
