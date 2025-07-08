@@ -2,6 +2,9 @@
 
 This project involves classifying different types of arrhythmic heartbeats using ECG data for multiple datasets.
 
+**Original Paper**: [Ye C, Coimbra MT, Vijaya Kumar BK. Arrhythmia detection and classification using morphological and dynamic features of ECG signals. Annu Int Conf IEEE Eng Med Biol Soc. 2010;2010:1918-21. doi: 10.1109/IEMBS.2010.5627645. PMID: 21097000.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5627645)
+
+
 ## 🔧 Configuration
 
 Replace dummy paths in `paths.json` file in the project directory with paths to the datasets on your system:
